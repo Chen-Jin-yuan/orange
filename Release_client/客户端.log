@@ -1,0 +1,14 @@
+﻿  net_c.cpp
+  client.cpp
+  main.cpp
+  rdt_on_udp.cpp
+  udp_hole_punch.cpp
+C:\Users\14242\source\repos\橘\客户端\udp_hole_punch.cpp(78,121): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\14242\source\repos\橘\客户端\udp_hole_punch.cpp(99,101): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\14242\source\repos\橘\客户端\udp_hole_punch.cpp(105,97): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  753 of 1800 functions (41.8%) were compiled, the rest were copied from previous compilation.
+    574 functions were new in current compilation
+    196 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  客户端.vcxproj -> C:\Users\14242\source\repos\橘\客户端\x64\Release\orange.exe
